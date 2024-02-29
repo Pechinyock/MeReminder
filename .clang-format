@@ -1,6 +1,6 @@
 Language: Cpp
 BasedOnStyle: Microsoft
-IndentWidth: 3
+IndentWidth: 4
 UseTab: Never
 BreakBeforeBraces: Allman
 PointerAlignment: Left
