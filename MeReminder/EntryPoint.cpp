@@ -1,3 +1,4 @@
+#include "src/Memorizer.h"
 #include <iostream>
 /*
  * TODO:
